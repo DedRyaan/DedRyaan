@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Shaikh Ryaan Ahmed! 👋
 
-<!--
-**DedRyaan/DedRyaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Currently a first-year university student
+- 🎧 Passionate about music, coding, hacking, and gaming
+- 🛠 I love learning new things, experimenting, and yes... breaking stuff along the way 😄
+- 💻 Exploring the world of programming and tech with an interest in various fields
 
-Here are some ideas to get you started:
+## My Skills
+- **Languages**: 
+  - Python 🐍
+  - C# (a little bit) 💻
+  - C (a little bit) 💾
+- **Databases**:
+  - Basic knowledge of MySQL 💾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- 🎮 Gaming
+- 🎶 Music
+- 🕵️‍♂️ Ethical hacking
+- 🌱 Learning new technologies and exploring innovative ideas
+
+## Get in Touch
+- GitHub: [DedRyaan](https://github.com/DedRyaan)
+
+Feel free to check out my repositories and projects! Let's collaborate and build something awesome. 🚀
